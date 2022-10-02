@@ -1,3 +1,0 @@
-# Election Results Analysis
-
-
