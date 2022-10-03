@@ -35,18 +35,29 @@ The memory use in Python programming script would read and write data, performed
 
 #### There is a report in analysis folder under election_analysis.txt that shows the out put of our work
 
-    Election Results
+
+Election Results
 -------------------------
 Total Votes: 369,711
 -------------------------
+County Votes:
+Jefferson: 10.5% (38,855) 
+Denver: 82.8% (306,055) 
+Arapahoe: 6.7% (24,801) 
+
+-------------------------
+Largest County Turnout: Denver
+-------------------------
+
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
+
 -------------------------
 Winner: Diana DeGette
-Winning Vote Count: 272,892
+Winning Vote Count: 272892 
 Winning Percentage: 73.8%
--------------------------   
+-------------------------
 
 ##### The Largest county turnout is Denver
 
