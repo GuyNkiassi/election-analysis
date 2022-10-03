@@ -33,6 +33,26 @@ The memory use in Python programming script would read and write data, performed
 
         Diana DeGette, who recived 73,8% of the vote and 272,892 number of the votes.
 
+#### There is a report in analysis folder under election_analysis.txt that shows the out put of our work
+
+    Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------   
+
+##### The Largest county turnout is Denver
+
+Challenges and Dificulties Encoutered
+
+While learning this computer new language, learning the code, and building a sound scriprt for anlysis you could miss or overlook for important keys factors that can be contibutor factor to our analysis. we need an automation to collet and analyze data so avoid human errors.
 
 
 
